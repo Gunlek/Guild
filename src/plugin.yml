@@ -1,0 +1,9 @@
+main: com.simpleduino.guild.GuildPlugin
+author: Gunlek
+version: 1.0
+name: Guild
+website: http;//simple-duino.com
+commands:
+  guild:
+    description: Access all guild's commands
+    aliases: [guild, guilde, g]
